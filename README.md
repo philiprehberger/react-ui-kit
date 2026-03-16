@@ -1,6 +1,6 @@
 # @philiprehberger/react-ui-kit
 
-[![CI](https://github.com/philiprehberger/react-ui-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/react-ui-kit/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/react-ui-kit/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/react-ui-kit/actions/workflows/publish.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/react-ui-kit.svg)](https://www.npmjs.com/package/@philiprehberger/react-ui-kit)
 [![License](https://img.shields.io/github/license/philiprehberger/react-ui-kit)](LICENSE)
 
@@ -56,6 +56,15 @@ import { Button, Card, Input, Modal } from '@philiprehberger/react-ui-kit';
   <Input label="Email" type="email" required />
   <Button variant="primary" size="md">Submit</Button>
 </Card>
+```
+
+
+## Development
+
+```bash
+npm install
+npm run build
+npm test
 ```
 
 ## License

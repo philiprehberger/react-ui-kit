@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/react-ui-kit",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Accessible React UI component library with Tailwind CSS",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -53,6 +53,10 @@
     "url": "git+https://github.com/philiprehberger/ts-react-ui-kit.git"
   },
   "homepage": "https://github.com/philiprehberger/ts-react-ui-kit#readme",
-  "bugs": { "url": "https://github.com/philiprehberger/ts-react-ui-kit/issues" },
-  "engines": { "node": ">=18.0.0" }
+  "bugs": {
+    "url": "https://github.com/philiprehberger/ts-react-ui-kit/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
 }
